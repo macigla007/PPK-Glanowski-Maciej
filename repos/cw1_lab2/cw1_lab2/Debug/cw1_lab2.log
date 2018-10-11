@@ -1,0 +1,4 @@
+﻿  działania.cpp
+c:\users\glanu\source\repos\cw1_lab2\cw1_lab2\działania.cpp(69): warning C4101: "y": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\glanu\source\repos\cw1_lab2\cw1_lab2\działania.cpp(69): warning C4101: "x": lokalna zmienna, do której nie istnieje odwołanie
+  cw1_lab2.vcxproj -> C:\Users\Glanu\source\repos\cw1_lab2\Debug\cw1_lab2.exe
