@@ -1,0 +1,4 @@
+﻿  Źródło.cpp
+c:\users\glanu\source\repos\7c49029f-gr11-repo2\lab-06\pliki-operacje\pliki-operacje\źródło.cpp(9): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\glanu\source\repos\7c49029f-gr11-repo2\lab-06\pliki-operacje\pliki-operacje\źródło.cpp(16): warning C4101: "is_open": lokalna zmienna, do której nie istnieje odwołanie
+  Pliki-Operacje.vcxproj -> C:\Users\Glanu\source\repos\7c49029f-gr11-repo2\lab-06\Pliki-Operacje\Debug\Pliki-Operacje.exe
